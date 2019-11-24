@@ -1,0 +1,9 @@
+name: Bartos
+type: theme
+description: 'This is a sub theme of Bartik'
+base theme: bartik
+core: '8.x'
+
+#Libraries
+libraries:
+- bartos/global-styling
